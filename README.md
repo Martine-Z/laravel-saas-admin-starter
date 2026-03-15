@@ -25,8 +25,8 @@ This project helps developers launch SaaS and admin dashboards much faster by pr
 ---
 
 ## Screenshots
+  
 
-(Add screenshots here)
 
 ---
 
@@ -35,10 +35,7 @@ This project helps developers launch SaaS and admin dashboards much faster by pr
 You can purchase the full source code here:
 
 SellAnyCode  
-https://sellanycode.com/your-product
-
-Codester  
-https://codester.com/your-product
+https://www.sellanycode.com/item/26968/laravel-admin-panel-starter-file-manager-crud-builder-chat-calendar
 
 ---
 
