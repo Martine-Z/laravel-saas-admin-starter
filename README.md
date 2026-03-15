@@ -1,18 +1,25 @@
 # Laravel 12 SaaS Admin Panel Starter
 
-A production-ready Laravel 12 admin panel starter kit with powerful modules.
+A modern **Laravel 12 SaaS Admin Starter Kit** with powerful built-in modules like File Manager, CRUD Builder, Chat and Calendar.
 
-This project helps developers launch SaaS and admin dashboards much faster by providing a complete backend foundation.
+This project helps developers launch **SaaS platforms, admin dashboards, CRM systems and internal tools much faster** by providing a complete backend foundation.
 
 ---
 
-## Main Features
+## 🚀 Live Demo
+
+Demo:  
+https://edocdev.com
+
+---
+
+## ✨ Main Features
 
 - User Management
-- Roles & Permissions
-- File Manager
+- Roles & Permissions (Spatie)
+- File Manager (upload, folders, preview)
 - CRUD Builder
-- Calendar
+- Calendar (events management)
 - Internal Chat
 - Activity Log
 - API Tokens
@@ -24,22 +31,33 @@ This project helps developers launch SaaS and admin dashboards much faster by pr
 
 ---
 
-## Screenshots
-  
+## 💰 Purchase
 
-
----
-
-## Purchase
-
-You can purchase the full source code here:
+Full version available here:
 
 SellAnyCode  
 https://www.sellanycode.com/item/26968/laravel-admin-panel-starter-file-manager-crud-builder-chat-calendar
 
 ---
 
-## Tech Stack
+## 🧠 Why this project?
+
+Building admin dashboards from scratch takes a lot of time.
+
+This starter kit already includes the most common modules developers rebuild in almost every project:
+
+- authentication
+- roles and permissions
+- file management
+- CRUD generator
+- internal communication
+- activity tracking
+
+Instead of spending days building infrastructure, you can start directly with your business logic.
+
+---
+
+## ⚙️ Tech Stack
 
 - Laravel 12
 - PHP 8.2+
@@ -52,8 +70,8 @@ https://www.sellanycode.com/item/26968/laravel-admin-panel-starter-file-manager-
 
 ---
 
-## License
+## 📄 License
 
-This repository is only for project preview.
+This repository is for **project preview only**.
 
-The full source code is available for purchase via the links above.
+The full source code is available for purchase via the link above.
